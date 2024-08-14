@@ -1,6 +1,6 @@
 site:
   name: AstroWind
-  site: 'krislodhi.github.io'
+  site: 'https://krislodhi.github.io'
   base: '/krislodhi/krislodhi.github.io'
   trailingSlash: false
 
